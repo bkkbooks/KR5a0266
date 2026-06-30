@@ -1,0 +1,10 @@
+canonical_identifier: bkk:krp/KR5a0266/bkk/v1/markers/0
+seq: 0
+markers:
+  front: []
+  body:
+  - {type: variant, offset: 0, length: 0, content: '', CK-KZ: 然}
+  - {type: variant, offset: 0, length: 0, content: '', CK-KZ-jye: 然}
+  - {type: variant, offset: 0, length: 0, content: '', YP-C: 然}
+  back: []
+hash: sha256:72ccb76138e5ace16a9a661ad07c4dccfedabd65f3428f2323a01a7fd41ea155

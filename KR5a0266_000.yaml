@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5a0266/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 修真十書鐘呂傳道集
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-28 23:43:44.535627'
+  source:
+    repository: kanripo
+    path: KR5a0266/KR5a0266_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:b2a4f1aaadee0116c05187362e706b7b2f8d82a6ae9cd5c4dd767e6764dbe00c

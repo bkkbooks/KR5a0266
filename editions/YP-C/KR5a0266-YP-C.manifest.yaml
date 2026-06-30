@@ -1,0 +1,76 @@
+canonical_identifier: bkk:krp/KR5a0266/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5a0266/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 修真十書鐘呂傳道集
+  date: '2015-08-28 23:43:44.535627'
+  source:
+    repository: kanripo
+    path: KR5a0266
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0266_000-YP-C.yaml, hash: 'sha256:a8404d1aa5a78ee1d66bd37d5d63eb828bd69cb0c173b35d2f2ddea29f9bc28f'}
+  - {seq: 1, filename: KR5a0266_001-YP-C.yaml, hash: 'sha256:1835843394a379dcb81e4242f87657e7004ed9a67a1613f23abb7029964f9dee'}
+  - {seq: 2, filename: KR5a0266_002-YP-C.yaml, hash: 'sha256:bbc8e4b1cde37916f61e9a3a2e9a42306a5d9af32f4bc203a67924b3aab56841'}
+  - {seq: 3, filename: KR5a0266_003-YP-C.yaml, hash: 'sha256:966c1ca1e8342acc83d6682349e4d8913bdbb408c63502170659dd86d9a662ff'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0266_000-YP-C.markers.yaml, hash: 'sha256:11a1faa132a6590d1ac7e930445687f2fab305db7e21bf15f5d671762347f1fc'}
+  - {seq: 1, role: markers, filename: assets/KR5a0266_001-YP-C.markers.yaml, hash: 'sha256:a023078ded4a45f0ed7311dddf9f7ae0f1a83ca135513fe9f29ef83e3d928be7'}
+  - {seq: 2, role: markers, filename: assets/KR5a0266_002-YP-C.markers.yaml, hash: 'sha256:53bcd85d05f1da1b9f139f54f10c49cdcc2d7216878c2a098274a214db986955'}
+  - {seq: 3, role: markers, filename: assets/KR5a0266_003-YP-C.markers.yaml, hash: 'sha256:abe69fdd9852bf300877662f7f438f36ec5851e24debb3cd26f66ac6ae749c09'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5a0266_YP-C_12weiji-02-0002b
+    span:
+    - body
+    - 0
+    - 7637
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5a0266_YP-C_12weiji-02-0021a
+    span:
+    - body
+    - 0
+    - 7323
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5a0266_YP-C_12weiji-02-0037b
+    span:
+    - body
+    - 0
+    - 10276
+  label: juan 003
+  type: section
+  level: 1
+hash: sha256:79331ec38954a3765ec476cf0b5422f91491088a23629e3374ecdf7ecc9838f9

@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5a0266/YP-C/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 然
+  hash: sha256:fe4c785508e6a480a13d3def0330185508d154f067de6e0d9f08bfb399f40e83
+metadata:
+  title: 修真十書鐘呂傳道集
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+  date: '2015-08-28 23:43:44.535627'
+  source:
+    repository: kanripo
+    path: KR5a0266/KR5a0266_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:a8404d1aa5a78ee1d66bd37d5d63eb828bd69cb0c173b35d2f2ddea29f9bc28f
